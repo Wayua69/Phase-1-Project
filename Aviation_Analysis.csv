@@ -1,0 +1,212 @@
+,EVENT.DATE,INJURY.SEVERITY,AIRCRAFT.DAMAGE,AIRCRAFT.CATEGORY,MODEL,NUMBER.OF.ENGINES,ENGINE.TYPE,FAR.DESCRIPTION,AIR.CARRIER,TOTAL.FATAL.INJURIES,TOTAL.SERIOUS.INJURIES,WEATHER.CONDITION,BROAD.PHASE.OF.FLIGHT
+22,1982,Non-Fatal,Substantial,Helicopter,206L-1,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Rocky Mountain Helicopters, In",0.0,0.0,VMC,Approach
+33,1982,Fatal(2),Destroyed,Airplane,PA-34-200T,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Lang Air Service,2.0,0.0,VMC,Cruise
+39,1982,Fatal(2),Destroyed,Airplane,PA-31,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Empire Airlines,2.0,0.0,VMC,Approach
+43,1982,Non-Fatal,Substantial,Airplane,TR182,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Joel Frederick's Monarch Air,0.0,0.0,VMC,Taxi
+44,1982,Non-Fatal,Substantial,Airplane,A185F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Executive Charter Service,0.0,2.0,VMC,Takeoff
+51,1982,Fatal(2),Destroyed,Airplane,210,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Robert R. Hylton,2.0,0.0,VMC,Cruise
+74,1982,Non-Fatal,Substantial,Airplane,U206,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Tri-city Air Service,0.0,0.0,VMC,Cruise
+80,1982,Incident,Minor,Airplane,EMB-110P1,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Aeromech Incorporated,0.0,0.0,VMC,Taxi
+87,1982,Non-Fatal,Substantial,Airplane,PA-31-350,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Richard Engstrom,0.0,0.0,IMC,Approach
+93,1982,Non-Fatal,Substantial,Airplane,SA 226-TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pocono Airlines,0.0,1.0,VMC,Takeoff
+95,1982,Non-Fatal,Substantial,Airplane,DHC-2-MK3,1.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Sea Airmotive, Inc.",0.0,0.0,VMC,Landing
+96,1982,Fatal(1),Destroyed,Helicopter,206L-1,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Offshore Logistics,1.0,2.0,IMC,Cruise
+101,1982,Non-Fatal,Destroyed,Airplane,440,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Island Airlines Hawaii Inc.,0.0,0.0,VMC,Takeoff
+129,1982,Non-Fatal,Substantial,Airplane,CL-44D4,4.0,Turbo Prop,Part 129: Foreign,"Acroservicios Eduatorianos, C",0.0,0.0,VMC,Landing
+130,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Dennis L Gunder,0.0,0.0,VMC,Takeoff
+139,1982,Fatal(1),Destroyed,Airplane,402A,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Springdale Air Service, Inc.",1.0,0.0,IMC,Approach
+145,1982,Non-Fatal,Destroyed,Airplane,207,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Cook Inlet Aviation,0.0,0.0,VMC,Landing
+155,1982,Fatal(2),Destroyed,Airplane,DC-10-30,3.0,Turbo Fan,Part 121: Air Carrier,"World Airways, Inc.",2.0,4.0,IMC,Landing
+177,1982,Non-Fatal,Substantial,Helicopter,369D,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Russell Lyon,0.0,0.0,VMC,Cruise
+184,1982,Fatal(1),Destroyed,Airplane,28-151,1.0,Reciprocating,Part 135: Air Taxi & Commuter,James Williams,1.0,0.0,IMC,Cruise
+204,1982,Non-Fatal,Substantial,Airplane,172P,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"West Isle Air, Inc.",0.0,0.0,IMC,Landing
+214,1982,Non-Fatal,Destroyed,Airplane,99,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pilgrim Airlines,0.0,5.0,IMC,Approach
+222,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Alpine Aviation,0.0,1.0,IMC,Cruise
+223,1982,Fatal(1),Destroyed,Airplane,PA-23-250,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Air Ventures, Inc.",1.0,0.0,IMC,Approach
+230,1982,Non-Fatal,Minor,Airplane,DC-10-10,3.0,Turbo Fan,Part 121: Air Carrier,United Airlines Inc.,0.0,1.0,IMC,Takeoff
+239,1982,Fatal(4),Destroyed,Airplane,PA-32R-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Security Transport Corpora,4.0,0.0,IMC,Cruise
+283,1982,Non-Fatal,Substantial,Airplane,185,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Wright Air Service,0.0,0.0,VMC,Taxi
+320,1982,Incident,Minor,Airplane,B737-2H4,2.0,Turbo Jet,Part 121: Air Carrier,Aircal,0.0,0.0,IMC,Approach
+332,1982,Non-Fatal,Substantial,Airplane,PA-31-310,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Ira D. Farrington,0.0,0.0,VMC,Landing
+336,1982,Non-Fatal,Substantial,Airplane,YS-11A,2.0,Turbo Prop,Part 121: Air Carrier,Reeve Aleutian,0.0,0.0,VMC,Approach
+345,1982,Non-Fatal,Substantial,Airplane,PA-23,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Four Lakes Aviation Corp,0.0,0.0,IMC,Approach
+346,1982,Incident,Minor,Airplane,EMB-11OP1,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Cascade Airways, Inc.",0.0,0.0,VMC,Takeoff
+361,1982,Non-Fatal,Substantial,Airplane,404,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Priester Aviation Service,0.0,0.0,IMC,Landing
+377,1982,Fatal(1),Destroyed,Airplane,DHC-6,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pilgrim Airlines,1.0,10.0,VMC,Cruise
+396,1982,Non-Fatal,Substantial,Airplane,PA-60,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Continental Incorporated,0.0,0.0,VMC,Takeoff
+417,1982,Non-Fatal,Substantial,Airplane,D18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Jim Billingsley,0.0,0.0,IMC,Approach
+419,1982,Incident,Minor,Airplane,B90,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Hanger One,0.0,0.0,IMC,Landing
+463,1982,Fatal(2),Destroyed,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Air Logistics Inc.,2.0,0.0,VMC,Approach
+469,1982,Non-Fatal,Substantial,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Window Rock Airways,0.0,0.0,VMC,Landing
+477,1982,Non-Fatal,Substantial,Airplane,600,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Continental Inc.,0.0,0.0,VMC,Takeoff
+508,1982,Non-Fatal,Destroyed,Airplane,PA-28R-180,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Cal Air Charter,0.0,1.0,VMC,Climb
+514,1982,Non-Fatal,Substantial,Airplane,PA-23 250,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Northern Airmotive Inc,0.0,0.0,VMC,Approach
+515,1982,Incident,Minor,Airplane,SA-266TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Britt Airways, Inc",0.0,0.0,UNK,Maneuvering
+532,1982,Incident,Minor,Airplane,262A-12,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Ransome Airlines, Inc",0.0,0.0,IMC,Climb
+539,1982,Non-Fatal,Substantial,Airplane,310,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Courier Service Inc.,0.0,0.0,IMC,Taxi
+552,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Professional Pilots Inc.,0.0,0.0,IMC,Approach
+587,1982,Non-Fatal,Substantial,Airplane,185,1.0,Reciprocating,Part 135: Air Taxi & Commuter,W.t. Ellis,0.0,0.0,VMC,Taxi
+594,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Luebell Helicopters, Inc",0.0,0.0,VMC,Approach
+607,1982,Fatal(5),Destroyed,Airplane,401,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Security Transport Corp.,5.0,2.0,IMC,Climb
+648,1982,Non-Fatal,Destroyed,Helicopter,SA316B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Mammoth Heli-ski Tioyabe Corp.,0.0,4.0,VMC,Climb
+677,1982,Incident,Minor,Airplane,65-88,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Basler Airlines,0.0,0.0,VMC,Approach
+693,1982,Non-Fatal,Substantial,Airplane,310Q,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Comet Airways Incorporated,0.0,0.0,VMC,Landing
+719,1982,Incident,Minor,Airplane,SA226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Britt Airways, Inc.",0.0,0.0,VMC,Takeoff
+760,1982,Incident,Minor,Airplane,402B,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Superior Air Service, Inc.",0.0,0.0,IMC,Approach
+796,1982,Incident,Minor,Airplane,727-200,3.0,Turbo Fan,Part 121: Air Carrier,United Airlines,0.0,0.0,IMC,Landing
+802,1982,Non-Fatal,Substantial,Airplane,206,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Western Yukon Air,0.0,0.0,IMC,Cruise
+813,1982,Fatal(3),Destroyed,Helicopter,369D,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Tundra Copters, Inc.",3.0,0.0,VMC,Cruise
+821,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Harbor Air Service,0.0,0.0,VMC,Takeoff
+890,1982,Incident,Minor,Airplane,BE-99,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Wheeler Airlines,0.0,0.0,VMC,Takeoff
+901,1982,Non-Fatal,Substantial,Airplane,727-200,3.0,Turbo Fan,Part 121: Air Carrier,"Continental Airlines, Inc.",0.0,0.0,VMC,Landing
+905,1982,Non-Fatal,Substantial,Helicopter,500C,1.0,Turbo Prop,Part 135: Air Taxi & Commuter,Anthony B. Reece,0.0,0.0,VMC,Landing
+908,1982,Incident,Minor,Airplane,L-1011,3.0,Turbo Fan,Part 121: Air Carrier,"Eastern Airlines, Inc.",0.0,0.0,VMC,Landing
+926,1982,Fatal(2),Destroyed,Helicopter,212,2.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Rotor-aids, Inc.",2.0,1.0,IMC,Cruise
+950,1982,Fatal(1),Minor,Helicopter,AS350,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Bauer Helicopter, Inc",1.0,0.0,VMC,Standing
+999,1982,Fatal(2),Destroyed,Airplane,E18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Island Airlines Hawaii, Ltd.",2.0,0.0,VMC,Climb
+1020,1982,Non-Fatal,Substantial,Airplane,207,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Richard K. Armstrong,0.0,0.0,IMC,Takeoff
+1022,1982,Incident,Minor,Airplane,PA-31-350,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Huntsville Aviation,0.0,0.0,VMC,Takeoff
+1099,1982,Non-Fatal,Substantial,Airplane,402A,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Capital Aviation Corporation,0.0,0.0,VMC,Landing
+1128,1982,Non-Fatal,Substantial,Airplane,PA-28R-200,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Gillis Aviation,0.0,0.0,VMC,Takeoff
+1171,1982,Non-Fatal,Substantial,Airplane,172P,1.0,Reciprocating,Part 135: Air Taxi & Commuter,New England Aviation,0.0,2.0,VMC,Approach
+1172,1982,Incident,Minor,Airplane,402B,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Trans Mo Airlines,0.0,0.0,VMC,Taxi
+1184,1982,Non-Fatal,Substantial,Airplane,PA-32RT-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Modern Flying Serv. Inc.,0.0,0.0,VMC,Taxi
+1211,1982,Non-Fatal,Substantial,Helicopter,206L-1,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Pumpkin Air, Inc.",0.0,0.0,VMC,Cruise
+1216,1982,Non-Fatal,Destroyed,Airplane,DHC-6-200,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Gifford Aviation,0.0,8.0,VMC,Approach
+1250,1982,Incident,Minor,Airplane,G-159C,2.0,Turbo Prop,Part 121: Air Carrier,"U.s. Aviation, Inc./air U.s.,",0.0,0.0,VMC,Landing
+1306,1982,Incident,Minor,Airplane,404,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Sunbird Airlines,0.0,0.0,VMC,Landing
+1333,1982,Non-Fatal,Substantial,Airplane,310R,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Business Aviation, Incorporati",0.0,0.0,VMC,Landing
+1343,1982,Non-Fatal,Substantial,Airplane,DC10-10,3.0,Turbo Fan,Part 121: Air Carrier,United Airlines,0.0,0.0,VMC,Taxi
+1359,1982,Non-Fatal,Substantial,Airplane,U206,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Robert F. Stanford,0.0,0.0,VMC,Approach
+1360,1982,Non-Fatal,Minor,Airplane,SA226-TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Sunaire,0.0,1.0,VMC,Standing
+1391,1982,Non-Fatal,Destroyed,Helicopter,206L-1,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Houston Helicopters,0.0,0.0,VMC,Landing
+1427,1982,Incident,Minor,Airplane,PA-31-325,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Clarence Roberts/roberts Avia.,0.0,0.0,VMC,Cruise
+1451,1982,Non-Fatal,Substantial,Airplane,65-90,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Midwest Piper Flight, Inc",0.0,0.0,VMC,Takeoff
+1516,1982,Non-Fatal,Destroyed,Helicopter,AS350D,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Kentucky Helicopters, Inc.",0.0,1.0,VMC,Maneuvering
+1570,1982,Non-Fatal,Destroyed,Airplane,A36,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Grand Strand Aviation Inc,0.0,0.0,VMC,Descent
+1581,1982,Incident,Minor,Airplane,DHC-6-100,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Sea Airmotive, Inc.",0.0,0.0,VMC,Cruise
+1598,1982,Non-Fatal,Substantial,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Armstrong Air Service,0.0,0.0,VMC,Cruise
+1600,1982,Non-Fatal,Destroyed,Airplane,H-18,2.0,Reciprocating,Part 135: Air Taxi & Commuter,West States Air Taxi,0.0,0.0,VMC,Takeoff
+1603,1982,Fatal(1),Destroyed,Airplane,185F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Alaska North Flying Service,1.0,0.0,VMC,Standing
+1659,1982,Non-Fatal,Destroyed,Helicopter,SA-315B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Hoskings Helicopter, Inc.",0.0,3.0,VMC,Maneuvering
+1681,1982,Fatal(3),Destroyed,Helicopter,SA-316B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Continental Helicopters, Inc.",3.0,0.0,VMC,Maneuvering
+1689,1982,Non-Fatal,Substantial,Helicopter,SA-330J,2.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Petroleum Helicopters,0.0,0.0,VMC,Climb
+1756,1982,Non-Fatal,Substantial,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Layton A. Bennet,0.0,0.0,VMC,Cruise
+1763,1982,Non-Fatal,Substantial,Airplane,E18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Coker Airfreight, Inc.",0.0,0.0,VMC,Landing
+1764,1982,Non-Fatal,Substantial,Airplane,340,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Colorado Corporate Charters,0.0,0.0,VMC,Approach
+1796,1982,Non-Fatal,Substantial,Airplane,BN-2A,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Munz Northern Airlines, Inc.",0.0,0.0,VMC,Takeoff
+1814,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Grand Canyon Helicopters, Inc.",0.0,0.0,VMC,Cruise
+1833,1982,Incident,Minor,Airplane,DC-9-31,2.0,Turbo Fan,Part 121: Air Carrier,"Republic Airlines West, Inc.",0.0,0.0,VMC,Takeoff
+1856,1982,Non-Fatal,Destroyed,Helicopter,SA316B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Hawkins And Powers Helicopters,0.0,5.0,VMC,Approach
+1864,1982,Non-Fatal,Destroyed,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,L.a.b. Flying Service,0.0,0.0,VMC,Maneuvering
+1892,1982,Non-Fatal,Substantial,Airplane,402B,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Kitty Hawk Airways, Inc.",0.0,2.0,VMC,Approach
+1893,1982,Non-Fatal,Substantial,Airplane,310,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Seward Peninsula Flying Svc,0.0,0.0,VMC,Takeoff
+1905,1982,Non-Fatal,Substantial,Helicopter,212,2.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Kenai Air Alaska Inc.,0.0,0.0,VMC,Cruise
+1942,1982,Fatal(4),Destroyed,Airplane,172F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Hell's Canyon Navigation Compa,4.0,0.0,VMC,Go-around
+1954,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Air Logistics,0.0,0.0,VMC,Cruise
+1969,1982,Non-Fatal,Minor,Airplane,DC-10-10,3.0,Turbo Fan,Part 121: Air Carrier,United Airlines,0.0,7.0,VMC,Cruise
+2014,1982,Non-Fatal,Destroyed,Airplane,T337H,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Agritill Leasing Co.,0.0,2.0,VMC,Maneuvering
+2019,1982,Non-Fatal,Substantial,Helicopter,AS-350D,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Petroleum Helicopter, Inc.",0.0,0.0,VMC,Cruise
+2021,1982,Incident,Minor,Airplane,E18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Executive Aviation, Inc.",0.0,0.0,VMC,Landing
+2078,1982,Fatal(4),Destroyed,Airplane,A185F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Bellair,4.0,0.0,VMC,Cruise
+2094,1982,Non-Fatal,Substantial,Airplane,172N,1.0,Reciprocating,Part 135: Air Taxi & Commuter,East Hampton Flight Service,0.0,0.0,VMC,Taxi
+2132,1982,Incident,Minor,Airplane,727-231,3.0,Turbo Fan,Part 121: Air Carrier,Trans World Airlines,0.0,0.0,IMC,Approach
+2146,1982,Non-Fatal,Substantial,Helicopter,UH1B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Beartooth,0.0,0.0,VMC,Approach
+2147,1982,Non-Fatal,Substantial,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Denali Flying Service,0.0,0.0,VMC,Maneuvering
+2168,1982,Incident,Minor,Helicopter,350D,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Jerry Lynn Noland,0.0,0.0,VMC,Maneuvering
+2176,1982,Non-Fatal,Substantial,Airplane,DC-3C,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Pronto Aviation Services,0.0,0.0,VMC,Takeoff
+2236,1982,Fatal(2),Destroyed,Airplane,PA-28-161,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Coastal Air Services, Inc.",2.0,0.0,IMC,Approach
+2239,1982,Non-Fatal,Destroyed,Airplane,PA-32-260,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Fast Eddie's Flying Service,0.0,1.0,VMC,Takeoff
+2254,1982,Incident,Minor,Airplane,737-291,2.0,Turbo Fan,Part 121: Air Carrier,"Frontier Airlines, Inc.",0.0,0.0,VMC,Takeoff
+2288,1982,Non-Fatal,Destroyed,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Petroleum Helicopter,0.0,1.0,VMC,Landing
+2451,1982,Non-Fatal,Substantial,Airplane,SA226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Air Midwest,0.0,0.0,VMC,Approach
+2456,1982,Incident,Minor,Airplane,DC-10-30F,3.0,Turbo Fan,Part 121: Air Carrier,"World Airways, Inc.",0.0,0.0,VMC,Takeoff
+2503,1982,Non-Fatal,Substantial,Airplane,C-47,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Carib Air Cargo,0.0,0.0,VMC,Taxi
+2520,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Peter Reichard,0.0,0.0,VMC,Takeoff
+2525,1982,Non-Fatal,Destroyed,Airplane,T207A,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Salmon Air Taxi,0.0,0.0,VMC,Takeoff
+2577,1982,Non-Fatal,Destroyed,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Peninsula Airways, Inc.",0.0,0.0,VMC,Takeoff
+2586,1982,Non-Fatal,Substantial,Airplane,G18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Viking Express Inc,0.0,0.0,VMC,Takeoff
+2613,1982,Non-Fatal,Destroyed,Helicopter,206-L,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Papillon Helicopters Limited,0.0,2.0,VMC,Maneuvering
+2624,1982,Non-Fatal,Substantial,Airplane,AA5B,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Raleigh Flying Service,0.0,0.0,VMC,Landing
+2625,1982,Non-Fatal,Substantial,Airplane,402,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Greg Hawes,0.0,0.0,VMC,Takeoff
+2668,1982,Non-Fatal,Substantial,Airplane,207A,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Bethel Ventures,inc.",0.0,0.0,VMC,Cruise
+2696,1982,Non-Fatal,Substantial,Airplane,PA-23-250,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Franklin Flying Service,0.0,0.0,VMC,Taxi
+2713,1982,Non-Fatal,Substantial,Airplane,T207A,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Airway Express Inc.,0.0,0.0,IMC,Go-around
+2724,1982,Non-Fatal,Substantial,Airplane,310R,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Thomas R. Mcelhenney,0.0,0.0,VMC,Landing
+2750,1982,Incident,Minor,Airplane,SA226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Air Midwest,0.0,0.0,VMC,Other
+2757,1982,Fatal(2),Destroyed,Airplane,DHC-II,1.0,Reciprocating,Part 135: Air Taxi & Commuter,James F. Searles,2.0,0.0,VMC,Approach
+2763,1982,Non-Fatal,Substantial,Airplane,402,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Scenic Airlines Inc.,0.0,1.0,VMC,Cruise
+2771,1982,Non-Fatal,Substantial,Airplane,U206F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Express Corporation,0.0,0.0,VMC,Takeoff
+2785,1982,Fatal(4),Destroyed,Airplane,C-U206F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Lake Clark Flying Service,4.0,1.0,VMC,Takeoff
+2792,1982,Non-Fatal,Substantial,Airplane,G18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Indianapolis Air Charter, Inc.",0.0,0.0,VMC,Takeoff
+2807,1982,Non-Fatal,Substantial,Airplane,U206A,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Gulf Air Taxi,0.0,0.0,VMC,Takeoff
+2836,1982,Non-Fatal,Substantial,Airplane,PA-34,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Thunderbird Aviation,0.0,0.0,VMC,Takeoff
+2838,1982,Fatal(1),Minor,Helicopter,222,2.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Omniflight Airways, Inc.",1.0,0.0,VMC,Standing
+2861,1982,Non-Fatal,Substantial,Airplane,U206,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Cyril D. Hetherington,0.0,0.0,VMC,Landing
+2896,1982,Non-Fatal,Substantial,Airplane,207,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Freight Express,0.0,0.0,VMC,Cruise
+2914,1982,Non-Fatal,Substantial,Airplane,76,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Altair,0.0,0.0,VMC,Cruise
+2916,1982,Incident,Minor,Helicopter,214ST,2.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Petroleum Helicopters Inc.,0.0,0.0,VMC,Cruise
+2920,1982,Incident,Minor,Airplane,PA31-350,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Southcentral Air Inc.,0.0,0.0,VMC,Approach
+2978,1982,Non-Fatal,Substantial,Airplane,PA-31-310,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Midwest Air Svcs. Inc.,0.0,0.0,VMC,Descent
+2998,1982,Non-Fatal,Substantial,Airplane,TU206G,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Cowboy Air Service, Inc.",0.0,0.0,VMC,Landing
+3005,1982,Non-Fatal,Substantial,Airplane,206,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Linn Air Service,0.0,0.0,VMC,Takeoff
+3006,1982,Non-Fatal,Substantial,Airplane,58,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Grand Strand Aviation, Inc.",0.0,0.0,VMC,Cruise
+3054,1982,Non-Fatal,Substantial,Airplane,SA-226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Borrego Springs Airline,0.0,0.0,VMC,Standing
+3074,1982,Non-Fatal,Substantial,Airplane,SA227-AC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Miostates Airlines,0.0,0.0,VMC,Taxi
+3076,1982,Incident,Minor,Airplane,DC-9-30,2.0,Turbo Fan,Part 121: Air Carrier,Texas International,0.0,0.0,VMC,Takeoff
+3081,1982,Fatal(3),Destroyed,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Petroleum Helicopters, Inc.",3.0,0.0,VMC,Cruise
+3082,1982,Fatal(3),Destroyed,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Air Logistics,3.0,0.0,VMC,Cruise
+3094,1982,Fatal(8),Destroyed,Airplane,PA-31,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Carib Air Service, Inc.",8.0,0.0,UNK,Unknown
+3141,1982,Incident,Minor,Airplane,B99,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Air Kentucky Airline,0.0,0.0,VMC,Landing
+3145,1982,Non-Fatal,Substantial,Airplane,PA-30,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Raf Aviation,0.0,0.0,VMC,Taxi
+3150,1982,Non-Fatal,Substantial,Airplane,185,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Jack R. Smith,0.0,0.0,VMC,Landing
+3170,1982,Incident,Minor,Airplane,SC7 SERIES 3,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Cape Smythe Air Service Inc.,0.0,0.0,VMC,Approach
+3174,1982,Non-Fatal,Substantial,Airplane,402B,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Darne, Inc.",0.0,0.0,VMC,Landing
+3192,1982,Non-Fatal,Substantial,Airplane,C-82,2.0,Reciprocating,Part 121: Air Carrier,"Northern Air Cargo, Inc.",0.0,2.0,VMC,Approach
+3199,1982,Non-Fatal,Substantial,Airplane,SA-226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Nevada National Leasing Co.,0.0,0.0,VMC,Takeoff
+3226,1982,Fatal(1),Destroyed,Airplane,GA-7,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Mid-plains Flight, Corp.",1.0,0.0,IMC,Approach
+3237,1982,Non-Fatal,Destroyed,Airplane,PA-28R-201T,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Flight East, Inc.",0.0,0.0,VMC,Cruise
+3252,1982,Non-Fatal,Substantial,Airplane,PA-32-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Harbor Air Service,0.0,0.0,VMC,Landing
+3254,1982,Fatal(1),Destroyed,Airplane,PA-31-350,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Hill-williford Aviation,1.0,0.0,VMC,Descent
+3262,1982,Non-Fatal,Substantial,Helicopter,SA316B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Life Flight, Allegheny General",0.0,0.0,VMC,Maneuvering
+3276,1982,Incident,Minor,Airplane,G18S,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Bo-s-aire,0.0,0.0,VMC,Descent
+3296,1982,Non-Fatal,Substantial,Airplane,DC-10,3.0,Turbo Fan,Part 121: Air Carrier,"Continental Air Lines, Inc.",0.0,0.0,VMC,Standing
+3306,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Houston Helicopters Inc.,0.0,0.0,IMC,Approach
+3315,1982,Non-Fatal,Destroyed,Airplane,680W,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Astro Wings Airlines,0.0,2.0,IMC,Cruise
+3322,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Mountain West Helicopters,0.0,0.0,VMC,Maneuvering
+3335,1982,Incident,Minor,Airplane,727-223,3.0,Turbo Fan,Part 121: Air Carrier,American Airlines,0.0,0.0,IMC,Landing
+3344,1982,Fatal(2),Destroyed,Airplane,95-B55,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Central American Inter'l Inc.,2.0,0.0,IMC,Takeoff
+3368,1982,Non-Fatal,Substantial,Airplane,PA-32R-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Layton A . Bennett,0.0,0.0,VMC,Takeoff
+3374,1982,Non-Fatal,Substantial,Airplane,707-323C,4.0,Turbo Fan,Part 129: Foreign,Aerotal Ltda.,0.0,0.0,VMC,Takeoff
+3391,1982,Non-Fatal,Substantial,Airplane,F-27-100,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pilgrim Airlines,0.0,0.0,VMC,Taxi
+3393,1982,Fatal(3),Destroyed,Airplane,PA-32-260,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Basco Flying Service, Inc.",3.0,2.0,IMC,Go-around
+3396,1982,Non-Fatal,Substantial,Airplane,310R,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Philip O. Petrik,0.0,0.0,IMC,Landing
+3405,1982,Non-Fatal,Substantial,Airplane,185,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Southern Seaplanes,0.0,0.0,VMC,Takeoff
+3423,1982,Incident,Minor,Airplane,727-225,3.0,Turbo Fan,Part 121: Air Carrier,"Eastern Airlines, Inc.",0.0,0.0,VMC,Takeoff
+3434,1982,Fatal(2),Destroyed,Airplane,SA-227AC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pioneer Airlines,2.0,0.0,IMC,Descent
+3435,1982,Incident,Minor,Airplane,G-159,2.0,Turbo Prop,Part 121: Air Carrier,Orion Airlines,0.0,0.0,VMC,Takeoff
+3437,1982,Non-Fatal,Substantial,Airplane,SA-226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Flt America, Inc",0.0,0.0,VMC,Landing
+3444,1982,Fatal(8),Destroyed,Airplane,DHC-2,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Tyee Airlines, Inc.",8.0,0.0,VMC,Maneuvering
+3479,1982,Incident,Minor,Airplane,100,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,"Ozark Skyways, Inc.",0.0,0.0,VMC,Cruise
+3489,1982,Fatal(2),Destroyed,Airplane,T210,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Custom Air Transport,inc.",2.0,0.0,IMC,Approach
+3499,1982,Non-Fatal,Substantial,Airplane,PA-32R-300,1.0,Reciprocating,Part 135: Air Taxi & Commuter,"Heartland Enterprises, Inc.",0.0,0.0,IMC,Cruise
+3516,1982,Non-Fatal,Substantial,Airplane,DHC-2,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Alvin D. Carrell,0.0,0.0,VMC,Landing
+3525,1982,Non-Fatal,Substantial,Airplane,56TC,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Van Air,inc.",0.0,0.0,IMC,Takeoff
+3526,1982,Non-Fatal,Substantial,Airplane,SA-227AC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Pioneer Airlines,0.0,0.0,VMC,Takeoff
+3527,1982,Non-Fatal,Substantial,Airplane,PA-34-200,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Bankair, Inc.",0.0,0.0,VMC,Landing
+3534,1982,Incident,Minor,Airplane,SA-226TC,2.0,Turbo Prop,Part 135: Air Taxi & Commuter,Gatx Third Aircraft Corp.,0.0,0.0,IMC,Takeoff
+3557,1982,Incident,Minor,Airplane,727-223,3.0,Turbo Fan,Part 121: Air Carrier,American Airlines,0.0,0.0,IMC,Go-around
+3566,1982,Fatal(1),Destroyed,Airplane,404,2.0,Reciprocating,Part 135: Air Taxi & Commuter,Gregory Murnane Murnane Aviati,1.0,3.0,VMC,Takeoff
+3577,1982,Fatal(1),Destroyed,Airplane,310R,2.0,Reciprocating,Part 135: Air Taxi & Commuter,"Skytel Aviaton, Inc.",1.0,0.0,VMC,Takeoff
+3597,1982,Non-Fatal,Substantial,Airplane,210N,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Air Exchange,0.0,0.0,VMC,Cruise
+3598,1982,Non-Fatal,Substantial,Helicopter,206B,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,North American Helicopter Svc.,0.0,0.0,VMC,Landing
+3599,1982,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Delaire Charter Service,0.0,0.0,VMC,Takeoff
+30062,1992,Fatal(27),Destroyed,Airplane,28-4000,2.0,Turbo Fan,Part 121: Air Carrier,"Usair, Inc.",27.0,9.0,IMC,Takeoff
+34275,1993,Non-Fatal,Substantial,Airplane,PA-32,1.0,Reciprocating,Part 135: Air Taxi & Commuter,Peninsula Airways (dba: Penair),0.0,0.0,VMC,Landing
+51259,2001,Fatal(6),Destroyed,Helicopter,AS350-B2,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Papillon Grand Canyon Helicopters,6.0,1.0,VMC,Maneuvering
+53379,2002,Fatal(2),Substantial,Airplane,A185F,1.0,Reciprocating,Part 135: Air Taxi & Commuter,C-air,2.0,2.0,VMC,Approach
+57694,2004,Fatal(13),Destroyed,Airplane,Jetstream 32,2.0,Turbo Prop,Part 121: Air Carrier,Corporate Airlines,13.0,2.0,IMC,Approach
+58138,2005,Non-Fatal,Substantial,Airplane,CL-600-1A11,2.0,Turbo Fan,Part 135: Air Taxi & Commuter,Platinum Jet Managment,0.0,4.0,VMC,Takeoff
+58219,2005,Fatal(1),Substantial,Helicopter,206-L1,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,Air Evac Lifeteam,1.0,3.0,VMC,Maneuvering
+59584,2005,Incident,Minor,Airplane,A320,2.0,Turbo Jet,Part 121: Air Carrier,"Jet Blue Airways, Inc.",0.0,0.0,VMC,Takeoff
+62142,2007,Fatal(4),Substantial,Helicopter,AS350BA,1.0,Turbo Shaft,Part 135: Air Taxi & Commuter,"Heli-usa Airways, Inc.",4.0,3.0,VMC,Maneuvering
